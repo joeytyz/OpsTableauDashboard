@@ -12,12 +12,19 @@ The performance benchmark has been communicated with management to set as a base
 
 
 2.Cleaning of data which includes blank cells, formulas found within the sheet which was linked to external parties' own data sheet, and validating of information being provided
+
 3. Loading of Excel files to Tableau
+
 4. Creating relationship of different tabs of raw data for easy references & simple calculations to be done in Tableau - Outer Joins was implemented
+
 5. Using Total On Time Shipments divided by Total Shipments gives us STS % - presented in percentage for easy and quick view
+
 6. Using Total Requested Shipments Shipped On Time (with a certain allowance given by Management) divided by Total Shipments gives us STR % - presented in percentage for easy and quick view
+
 7. Other KPI measurements like Commit To Build % (monthly), Delivery % (monthly), and Shipment Achieved % YTD were also done via bar graphs to let us view based on Product Family lines - this can be narrowed down when adding a filter on the side
+
 8. Data visuals were created and color coordinations were done in accordance to company's color
+
 #
 Screenshots are being taken on Tableau but was not published to Tableau Desktop (Public) due to data sensitivity
 #
