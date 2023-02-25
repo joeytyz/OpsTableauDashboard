@@ -10,8 +10,7 @@ The performance benchmark has been communicated with management to set as a base
 #
 1. Collection of data was done from 3 different external parties, of which different templates were received and have to be arranged into the correct columns in the Masterfile for analysis 
 
-
-2.Cleaning of data which includes blank cells, formulas found within the sheet which was linked to external parties' own data sheet, and validating of information being provided
+2. Cleaning of data which includes blank cells, formulas found within the sheet which was linked to external parties' own data sheet, and validating of information being provided
 
 3. Loading of Excel files to Tableau
 
